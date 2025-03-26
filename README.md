@@ -7,7 +7,7 @@
 ---
 
 ### 🥋 About Me
-- 🔭 **Currently mastering**: [Gorstak](https://gorstakstore.netlify.app/) — my e-commerce dojo built with pixel-perfect precision  
+- 🔭 **Currently mastering**: [Gorstak](https://gorstakstore.netlify.app/) — my e-commerce built with pixel-perfect precision  
 - 🌱 **Learning**: New frontend katas and the art of seamless UI/UX  
 - 📫 **Contact me**: **dusaanpetrovic21@gmail.com**  
 - ⚡ **Fun fact**: *Octopuses blend into their surroundings with three hearts — I juggle code, coffee, and chaos with one!*  
