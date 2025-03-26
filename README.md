@@ -23,7 +23,7 @@
   <a href="mailto:dusaanpetrovic21@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="gmail" height="30" width="40" /></a>
 </div>
 <p align="center">
-  <strong>Discord:</strong> dusanpetrovic | <strong>WhatsApp:</strong> 0607262121 | <strong>Gmail:</strong> dusaanpetrovic21@gmail.com
+  <strong>WhatsApp:</strong> 0607262121 | <strong>Gmail:</strong> dusaanpetrovic21@gmail.com
 </p>
 
 ---
