@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hey, I’m Dušan Petrović</h1>
-  <h3>A Serbian Frontend Sensei Blending Code Flow with Aikido Grace</h3>
+  <h3>A Serbian Developer Sensei, Merging Code Flow with Aikido Grace</h3>
   <img src="https://komarev.com/ghpvc/?username=dusan2103&label=Profile%20Views&color=0e75b6&style=flat" alt="dusan2103" />
 </div>
 
