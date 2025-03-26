@@ -41,17 +41,10 @@
 
 ---
 
-### 🌟 My Coding Journey
+### 🌌 Code & Flow Inspiration
 <div align="center">
-  <a href="https://github.com/dusan2103?tab=repositories" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=dusan2103&theme=onedark&no-frame=true&margin-w=15&column=6" alt="dusan2103 trophies" />
-  </a>
-  <p><strong>From Serbia with Code:</strong> Turning caffeine into commits and chaos into clean interfaces.</p>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmR0eTdxeWZhNHc3Z2w5M3k3N2RncW5kMjM2bjd2eXI4aTdqeWFiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRv0Thra0VLDZ3a/giphy.gif" width="200" alt="flow vibe" />
+  <p><i>"In code, as in aikido: adapt, align, and let the chaos flow into harmony."</i></p>
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3k2c3A2OXZhZmNrcjd2cDlscjM5eGZhOHY3eW1wZnR2cjdjdjB5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISRnn/giphy.gif" width="200" alt="aikido flow" />
-  <p><i>"Frontend is my dojo — every line of code a move, every bug a lesson."</i></p>
-</div>
