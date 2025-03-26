@@ -42,9 +42,5 @@
 ---
 
 ### 🌌 Code & Flow Inspiration
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmR0eTdxeWZhNHc3Z2w5M3k3N2RncW5kMjM2bjd2eXI4aTdqeWFiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRv0Thra0VLDZ3a/giphy.gif" width="200" alt="flow vibe" />
-  <p><i>"In code, as in aikido: adapt, align, and let the chaos flow into harmony."</i></p>
-</div>
-
+<div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2x2NGZqYzM0aDRuMnZncDFmNGYxNWVhNXRwbmd5a3Z0aThzOG1zYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QBd2kLB5qDmysEXre9/giphy.gif" width="200" alt="ninja coding" /> <p><i>"Kôd kao borilačka veština: preciznost samuraja, fleksibilnost ninje, strpljenje monaha."</i></p> </div>
 ---
