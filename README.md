@@ -20,7 +20,8 @@
   <a href="https://instagram.com/dusaanpetrovic" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dusaanpetrovic" height="30" width="40" /></a>
   <a href="https://wa.me/+381607262121" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
   <a href="mailto:dusaanpetrovic21@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="gmail" height="30" width="40" 
-<a href="https://discord.com/users/dusanpetrovic" target="blank"><img src="https://img.icons8.com/?size=100&id=30887&format=svg" alt="dusanpetrovic" height="20" width="20" /></a> Catch me on Discord!/></a>
+<a href="https://discord.com/users/dusanpetrovic" target="blank"><img src="![image](https://github.com/user-attachments/assets/4c6eab43-82ef-4fe2-9f1d-89a289248d66)
+" alt="dusanpetrovic" height="20" width="20" /></a> Catch me on Discord!/></a>
 </div>
 <p align="center">
   <strong>WhatsApp:</strong> +381607262121 | <strong>Gmail:</strong> dusaanpetrovic21@gmail.com
