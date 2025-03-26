@@ -12,7 +12,7 @@
 - 📫 **Contact me**: **dusaanpetrovic21@gmail.com**  
 - ⚡ **Fun fact**: *Octopuses blend into their surroundings with three hearts — I juggle code, coffee, and chaos with one!*  
 - 💡 **Aikido wisdom**: "Redirect the energy of bugs into clean commits."  
-- **Catch me on Discord**: dusanpetrovic
+- **Catch me on Discord**: [discord.gg/dusanpetrovic](https://discord.gg/dusanpetrovic)  
 
 ---
 
@@ -42,5 +42,9 @@
 ---
 
 ### 🌌 Code & Flow Inspiration
-<div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2x2NGZqYzM0aDRuMnZncDFmNGYxNWVhNXRwbmd5a3Z0aThzOG1zYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QBd2kLB5qDmysEXre9/giphy.gif" width="200" alt="ninja coding" /> <p><i>"Kôd kao borilačka veština: preciznost samuraja, fleksibilnost ninje, strpljenje monaha."</i></p> </div>
+<div align="center">  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2x2NGZqYzM0aDRuMnZncDFmNGYxNWVhNXRwbmd5a3Z0aThzOG1zYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QBd2kLB5qDmysEXre9/giphy.gif" width="200" alt="ninja coding" />  
+  <p><i>"Mastery in code, like in martial arts, demands precision, adaptability, and discipline. The best developers, like true warriors, move with purpose—turning obstacles into opportunities."</i></p>  
+</div>
+
 ---
