@@ -19,11 +19,10 @@
 ### 🌐 Connect with Me
 <div align="center">
   <a href="https://instagram.com/dusaanpetrovic" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dusaanpetrovic" height="30" width="40" /></a>
-  <a href="https://wa.me/+381607262121" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
   <a href="mailto:dusaanpetrovic21@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="gmail" height="30" width="40"/></a>
 </div>
 <p align="center">
-  <strong>WhatsApp:</strong> +381607262121 | <strong>Gmail:</strong> dusaanpetrovic21@gmail.com
+  <strong>Gmail:</strong> dusaanpetrovic21@gmail.com
 </p>
 
 ---
