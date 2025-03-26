@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hey, I’m Dušan Petrović</h1>
+  <h1>👋 Hello, I’m Dušan Petrović 👋</h1>
   <h3>A Serbian Developer Sensei, Merging Code Flow with Aikido Grace</h3>
   <img src="https://komarev.com/ghpvc/?username=dusan2103&label=Profile%20Views&color=0e75b6&style=flat" alt="dusan2103" />
 </div>
