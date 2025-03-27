@@ -12,7 +12,6 @@
 - 📫 **Contact me**: **dusaanpetrovic21@gmail.com**  
 - ⚡ **Fun fact**: *Octopuses blend into their surroundings with three hearts — I juggle code, coffee, and chaos with one!*  
 - 💡 **Aikido wisdom**: "Redirect the energy of bugs into clean commits."  
-- **Catch me on Discord**: [discord.gg/dusanpetrovic](https://discord.gg/dusanpetrovic)  
 
 ---
 
