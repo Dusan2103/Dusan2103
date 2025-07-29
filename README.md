@@ -27,10 +27,6 @@
 ---
 
 ### 🛠️ Languages and Tools
-
-🤖 AI Tools & Frameworks
-<p align="center"> <a href="https://openai.com/chatgpt" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chatgpt-colored.svg" alt="chatgpt" width="60" height="60" style="margin: 10px;"/></a> <a href="https://gemini.google.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Google_Gemini_logo.svg/2048px-Google_Gemini_logo.svg.png" alt="gemini" width="60" height="60" style="margin: 10px;"/></a> <a href="https://zapier.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/zapier.svg" alt="zapier" width="60" height="60" style="margin: 10px;"/></a> <a href="https://www.make.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/131714503?s=200&v=4" alt="make.com" width="60" height="60" style="margin: 10px;"/></a> <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="60" height="60" style="margin: 10px;"/></a> <a href="https://cloud.google.com/automl" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google automl" width="60" height="60" style="margin: 10px;"/></a> </p>f
-
 <p align="center">
   <!-- Frontend -->
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" style="margin: 10px;"/></a>
